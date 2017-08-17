@@ -1,0 +1,228 @@
+/*星新闻和星动态共有样式*/
+.updatabox{
+	width: 100%;
+	margin: 0 auto;
+}
+.up_tab{
+	width: 100%;
+	height: 0.88rem;
+	background: #fff
+	margin:0 auto;
+}
+.up_tab li{
+	width: 50%;
+	height: 0.88rem;
+	line-height: 0.88rem;
+	color: #464646;
+	font-size: 0.28rem;
+	float: left;
+	text-align: center;
+}
+.up_newxw{
+	width: 7.5rem;
+	margin:0 auto;
+}
+.newbanner1{
+	width: 100%;
+	height: 2.83rem;
+}
+.ul_wxul{
+	width: 7rem;
+	margin: 0 auto; 
+}
+.up_xwli{
+	width: 7rem;
+	margin: 0 auto;
+		border-bottom:0.01rem  solid #eaeaea; 
+}
+.lizeizhi{
+	margin-top: 0.23rem;
+	width: 7rem;
+	margin-bottom: 0.23rem;
+
+}
+.up_sltimg{
+	width: 1.74rem;
+	display: block;
+	float: left;
+	height: 1.27rem;
+}
+.upright{
+	width: 5.12rem;
+	float: left;
+	margin-left: 0.1rem;
+	height: 1.27rem;
+	overflow: hidden;
+}
+.uprightbt{
+	width: 5.12rem;
+	font-size: 0.26rem;
+	line-height: 0.32rem;
+	color: #464646;
+}
+.upcontent{
+	width: 5.12rem;
+	color:#b0b0b0;
+	font-size: 0.24rem;
+	word-break:keep-all;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.uprili{
+	width: 1.33rem;
+	height: 0.23rem;
+	background: #f4f4f4;
+	font-size: 0.2rem;
+	color: #a1a1a1;
+	line-height: 0.23rem;
+	text-align: center;
+	margin-top: 0.06rem;
+	border-radius: 0.04rem
+}
+.upjzgd{
+	width: 3.48rem;
+	height: 0.4rem;
+	border: 0.01rem solid #e8e8e8;
+	margin: 0.2rem auto;
+	text-align: center;
+	line-height: 0.4rem;
+	cursor: pointer;
+	border-radius: 0.04rem;
+	color: #a2a2a2;
+}
+.upchexiaoimg{
+	width: 0.17rem;
+	height: 0.16rem;
+	line-height: 0.4rem;
+}
+.up_newdt{
+	width: 7.5rem;
+	display: none;
+	margin: 0 auto;
+}
+.curr{
+	color: #114579;
+	border-bottom: 0.02rem solid #114579;
+}
+/*星新闻详情页*/
+.xwxqbox{
+	width: 7rem;
+	margin: 0 auto
+}
+.xwxq_bt1{
+	clear: both;
+	margin: 0 auto;
+	font-size: 0.26rem;
+	color: #464646;
+	text-align: center;
+	line-height: 0.32rem;
+	margin-top: 0.16rem;
+}
+.xwxq_bt2{
+	margin: 0 auto;
+	font-size: 0.26rem;
+	color: #464646;
+	text-align: center;
+	line-height: 0.32rem;
+}
+.xwxq_time{
+	width: 2.3rem;
+	height: 0.24rem;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 0.24rem;
+	font-size: 0.2rem;
+	color: #a1a1a1;
+	background: #f4f4f4;
+	margin-top: 0.15rem;
+	border-radius: 0.04rem;
+	margin-bottom:0.26rem;
+}
+.xwxqimg{
+	width: 7rem;
+	height: 4.68rem;
+	display: block;
+}
+.xwxq_bt3{
+	width: 7rem;
+	margin-top: 0.17rem;
+	color: #464646;
+	font-size:0.24rem;
+	text-align:Justify;
+	text-justify:inter-ideograph;
+}
+.xwxq_bt4{
+	width: 7rem;
+	margin-top: 0.37rem;
+	color: #464646;
+	font-size:0.24rem;
+	text-align:Justify;
+	text-justify:inter-ideograph;
+}
+.xwxq_bt5{
+	width: 7rem;
+	color: #464646;
+	font-size:0.24rem;
+	text-align:Justify;
+	text-justify:inter-ideograph;
+}
+.xqimgweizhi{
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.kongbai20{
+	width: 7rem;
+	margin: 0 auto;
+	height: 0.2rem;
+	border-bottom: 0.01rem solid #eaeaea;
+}
+.xwxq_bt6{
+	width: 7rem;
+	margin: 0.28rem auto;
+	color: #464646;
+	font-size:0.24rem;
+}
+.xwxqul{
+	width: 7rem;
+	margin: 0 auto;
+}
+.xwwqli{
+	width: 7rem;
+	margin: 0 auto;
+}
+.xwxqjiantou{
+	width: 0.12rem;
+	height: 0.13rem;
+	display: block;
+	float: left;
+	margin-top: 0.12rem;
+}
+.xwxq_bt7{
+	width: 6.79rem;
+	height: 0.33rem;
+	float: left;
+	margin-left: 0.09rem;
+	margin-bottom: 0.25rem;
+	font-size: 0.24rem;
+	color: #114579;
+	overflow: hidden;
+}
+a:hover, a:active, a:focus {
+    color: #a2a2a2;
+}
+a{text-decoration: none;}
+.fanhui{
+	display: block;
+	width: 3.48rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	border: 0.01rem solid #e8e8e8;
+	text-align: center;
+	margin: 0.38rem auto 0.28rem auto;
+	color: #a2a2a2;
+	border-radius: 0.04rem
+}
+
+/*新动态详情页*/
+

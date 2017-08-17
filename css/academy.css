@@ -1,0 +1,253 @@
+/*星融书院*/
+.books{
+	width: 7.5rem;
+	margin: 0 auto;
+}
+.newbanner1{
+	width: 100%;
+	height: 2.8rem;
+}
+.book_ul{
+	width: 7.5rem;
+	margin: 0 auto;
+}
+.book_li{
+	width: 7.5rem;
+	margin:0 auto;
+	height: 0.88rem;
+	border-bottom: 0.01rem solid #e1e1e1;
+}
+.booknr{
+	line-height: 0.88rem;
+	width: 7rem;
+	margin: 0 auto;
+}
+.boornrleft{
+	float: left;
+	font-size: 0.26rem;
+	color: #464646;
+}
+.boornrright{
+	float: right;
+	font-size: 0.24rem;
+	color: #909090;
+}
+.upjzgd{
+	width: 3.48rem;
+	height: 0.4rem;
+	border: 0.01rem solid #e8e8e8;
+	margin: 0.2rem auto;
+	text-align: center;
+	line-height: 0.4rem;
+	cursor: pointer;
+	border-radius: 0.04rem;
+	color: #a2a2a2;
+}
+.upchexiaoimg{
+	width: 0.17rem;
+	height: 0.16rem;
+	line-height: 0.4rem;
+}
+.booksxq{
+	width: 7.5rem;
+	margin: 0 auto;
+}
+.booxnr{
+	width: 7rem;
+	margin: 0 auto;
+}
+.boxnr_01{
+	color: #464646;
+	font-size: 0.26rem;
+	text-align: center;
+	padding-top: 0.28rem;
+}
+.boxnr_02{
+	width: 3.7rem;
+	color: #b2b2b2;
+	height: 0.35rem;
+	line-height: 0.35rem;
+	padding-left: 0.08rem;
+	padding-right: 0.08rem;
+	background: #f4f4f4;
+	margin: 0 auto;
+	margin-top: 0.16rem;
+	font-size: 0.24rem;
+	text-align: center;
+}
+.boxnr_03{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_03 p{
+	font-size: 0.24rem;
+	color: #fff;
+	padding-left: 0.11rem;
+	float: left;
+
+}
+.boxnr_10{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_11{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_12{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_13{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_14{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_15{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_16{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_17{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_18{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxnr_19{
+	width: 2.39rem;
+	height: 0.38rem;
+	background: #3593f2;
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+	line-height: 0.38rem;
+}
+.boxwzz{
+	font-size: 0.24rem;
+	color: #fff;
+	padding-left: 0.11rem;
+	float: left;
+
+}
+.up_sltimg{
+
+	width: 0.16rem;
+	height: 0.08rem;
+	display: block;
+	float: right;
+	margin-right: 0.16rem;
+	margin-top: 0.16rem
+}
+.boxnr_neirong{
+	width: 7rem;
+	margin: 0 auto;
+}
+.boxnr_04{
+	width: 7rem;
+	font-size: 0.24rem;
+	line-height: 0.32rem;
+	text-align:Justify;
+	text-justify:inter-ideograph;
+	color: #909090;
+	margin-bottom: 0.3rem;
+}
+.colorblue{
+	color:#114579
+}
+.colorred{
+	color:#ff1d1d
+}
+.xwxq_bt6{
+	width: 7rem;
+	margin: 0.28rem auto;
+	color: #464646;
+	font-size:0.24rem;
+}
+.xwxqul{
+	width: 7rem;
+	margin: 0 auto;
+}
+.xwwqli{
+	width: 7rem;
+	margin: 0 auto;
+}
+.xwxqjiantou{
+	width: 0.12rem;
+	height: 0.13rem;
+	display: block;
+	float: left;
+	margin-top: 0.12rem;
+}
+.xwxq_bt7{
+	width: 6.79rem;
+	height: 0.33rem;
+	float: left;
+	margin-left: 0.09rem;
+	margin-bottom: 0.25rem;
+	font-size: 0.24rem;
+	color: #114579;
+	overflow: hidden;
+}
+a:hover, a:active, a:focus {
+    color: #a2a2a2;
+}
+a{text-decoration: none;}
+.fanhui{
+	display: block;
+	width: 3.48rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	border: 0.01rem solid #e8e8e8;
+	text-align: center;
+	margin: 0.38rem auto 0.28rem auto;
+	color: #a2a2a2;
+	border-radius: 0.04rem
+}

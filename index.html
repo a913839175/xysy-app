@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <title>首页</title>
+    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+    <meta content="application/xhtml+xml;charset=UTF-8" http-equiv="Content-Type">
+    <meta content="no-cache,must-revalidate" http-equiv="Cache-Control">
+    <meta content="no-cache" http-equiv="pragma">
+    <meta content="0" http-equiv="expires">
+    <meta content="telephone=no, address=no" name="format-detection">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+
+</head>
+ <script>
+        (function (_D){
+            var _self = {};
+            _self.Html = _D.getElementsByTagName("html")[0];
+            _self.widthProportion = function(){var p = (_D.body&&_D.body.clientWidth||_self.Html.offsetWidth)/750;return p>1?1:p<0.4?0.4:p;};
+            _self.changePage = function(){_self.Html.setAttribute("style","font-size:"+_self.widthProportion()*100+"px !important");}
+            _self.changePage();
+            setInterval(_self.changePage,100);
+        })(document);
+
+    </script>
+<body>
+	<div class="content">
+		<header>
+			<img src="img/logo.png" />
+		</header>
+		<div class="nav">
+			<div class="left"></div><div class="center">首页</div><div class="right"><img src="img/xl.png"></div>
+			<div class="xx">
+				<img src="img/rau.png">
+				<ul class="row_l">
+					<a href="global_assert.html"><li>我们的服务</li></a>
+					<a href="updatesituationxw.html"><li>最新动态</li></a>
+					<a href="academy.html"><li>星融书院</li></a>
+					<a href="recruitnb.html"><li>招贤納士</li></a>
+				</ul>
+			</div>	
+			
+		</div> 
+		<div class="part_01">
+			<div class="banner"><img src="img/banner01.jpg"></div>
+			<p class="new_f"><i class="icon"></i><span class="text_wb">2016.10.10财经、金融综合播报-[2016-10-10]</span><b>咨询</b></p>
+		</div>
+		<div class="part_02">
+			<div class="c_wz">
+				<h1><span>星融新闻&动态</span>  <b>| News</b></h1>
+				<div class="article">
+				<ul>
+					<li>
+						<img src="img/art_01.jpg">
+						<div class="right_a">
+							<h2>聊聊“十三五”，放眼新蓝图&nbsp;&nbsp;<b>新闻</b></h2>
+							<p>2016年4月23日下午，“和他们聊”系列活动第三期“聚焦‘十三五’，财富新蓝图系……</p>
+							<span>2016-08-20</span>
+						</div>
+						
+					</li>
+					<li>
+						<img src="img/art_01.jpg">
+						<div class="right_a">
+							<h2>爱从守护做起：星融财富携手宁波红十字会，慰问居士林安养老人&nbsp;&nbsp;<b class="dt">动态</b></h2>
+							<p>10月8日，星融财富携手宁波市红十字会……</p>
+							<span>2016-08-20</span>
+						</div>
+						
+					</li>
+					<li>
+						<img src="img/art_01.jpg">
+						<div class="right_a">
+							<h2>聊聊“十三五”，放眼新蓝图&nbsp;&nbsp;<b>新闻</b></h2>
+							<p>2016年4月23日下午，“和他们聊”系列活动第三期“聚焦‘十三五’，财富新蓝图系……</p>
+							<span>2016-08-20</span>
+						</div>
+						
+					</li>
+					<li>
+						<img src="img/art_01.jpg">
+						<div class="right_a">
+							<h2>爱从守护做起：星融财富携手宁波红十字会，慰问居士林安养老人&nbsp;&nbsp;<b class="dt">动态</b></h2>
+							<p>10月8日，星融财富携手宁波市红十字会……</p>
+							<span>2016-08-20</span>
+						</div>
+						
+					</li>
+					<li>
+						<img src="img/art_01.jpg">
+						<div class="right_a">
+							<h2>聊聊“十三五”，放眼新蓝图&nbsp;&nbsp;<b>新闻</b></h2>
+							<p>2016年4月23日下午，“和他们聊”系列活动第三期“聚焦‘十三五’，财富新蓝图系……</p>
+							<span>2016-08-20</span>
+						</div>
+						
+					</li>
+					
+				</ul>
+				<p class="load">加载更多<img src="img/load.png"></p>
+				
+			</div>
+			</div>
+			
+			
+			
+		</div>
+		
+	</div>
+	<script src="js/jquery_1.10.2.js"></script>
+	<script src="js/global.js"></script>
+	<script>
+	//滚动加载
+		$.refres("article ul",6,"<li><img src='img/art_01.jpg'><div class='right_a'><h2>聊聊“十三五”，放眼新蓝图&nbsp;&nbsp;<b>新闻</b></h2><p>2016年4月23日下午，“和他们聊”系列活动第三期“聚焦‘十三五’，财富新蓝图系……</p><span>2016-08-20</span></div></li>");
+	</script>
+</body>
+</html>
